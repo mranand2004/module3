@@ -1,4 +1,4 @@
-# module3
+
 # MyToken Smart Contract
 
 This repository contains the source code for a custom ERC20 token smart contract called `MyToken`. The contract is implemented in Solidity and includes functionality for minting, burning, and transferring tokens.
